@@ -10,13 +10,13 @@
 
 -   Windows（推荐）
 
-		-   电脑安装好Python基础环境，安装Pyserial包。建议直接安装 [Miniconda Python2.7] (https://docs.conda.io/en/latest/miniconda.html)
+		_ 电脑安装好Python基础环境，安装Pyserial包。建议直接安装 [Miniconda Python2.7] (https://docs.conda.io/en/latest/miniconda.html)
 
 -   Linux
 
 		_ Download or pull this code
 
-		- pip install pyserial
+		_ pip install pyserial
 
 ## 使用方法
 
@@ -24,11 +24,12 @@
 
 		_ 准备好Python环境，建议Python2.7；安装好Pyserial包。
 
-		- 下载本库的所有文件，建议直接下载压缩包解压，或使用git clone
+		_ 下载本库的所有文件，建议直接下载压缩包解压，或使用git clone
 
-		- 使用通用单片机烧录软件，将firemware文件夹中的固件文件.hex烧录到JC-STC核心板中
+		_ 使用通用单片机烧录软件，将firemware文件夹中的固件文件.hex烧录到JC-STC核心板中
 
-		- usb连接开发板，命令行运行python test.py 即可运行测试程序
+		_ usb连接开发板，命令行运行python test.py 即可运行测试程序
+
 
 -   高级方法
 
